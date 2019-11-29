@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AmapLocDemo</string>
+    <string name="title_activity_line_list">LineListActivity</string>
+</resources>
